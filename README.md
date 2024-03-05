@@ -1,3 +1,3 @@
 # snake
 
-do in C++, will also be a networking demo
+do in Rust, will also be a networking demo
